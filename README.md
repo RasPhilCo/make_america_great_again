@@ -1,6 +1,6 @@
 # MakeAmericaGreatAgain
 
-Based on 'Thanks Obama' by Matthew Closson, Make America Great Again will remind you where the fault for your exceptions really lie. Don't blame yourself, blame the exceptions and you're on your way to making your app great again!
+Based on 'Thanks Obama' by Matthew Closson, Make America Great Again will remind you where the fault for your errors really lie. Don't blame yourself, blame the exceptions and you're on your way to making your app (and America) great again!
 
 ## Installation
 

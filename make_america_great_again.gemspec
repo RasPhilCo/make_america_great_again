@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = MakeAmericaGreatAgain::VERSION
   gem.authors       = ["Philipe Navarro"]
   gem.email         = ["philipe@snowshoestamp.com"]
-  gem.description   = %q{Based on 'Thanks Obama' by Matthew Closson, Make America Great Again will remind you where the fault for your exceptions really lie.}
-  gem.summary       = %q{Make your app great again}
+  gem.description   = %q{Based on 'Thanks Obama' by Matthew Closson, Make America Great Again will remind you where the fault for your errors really lie. Don't blame yourself, blame the exceptions and you're on your way to making your app (and America) great again!}
+  gem.summary       = %q{Make your app (and America) great again}
   gem.license       = "MIT"
   gem.homepage      = "https://github.com/rasphilco/make_america_great_again"
 
